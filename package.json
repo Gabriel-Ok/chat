@@ -1,0 +1,18 @@
+{
+  "name": "chats",
+  "version": "1.0.0",
+  "description": "simple chat app\u001b[D\u001b[D\u001b[Dwebapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "gabriel",
+  "license": "ISC",
+  "dependencies": {
+     "express": "*",
+    "socket.io": "^2.0.3"
+  }
+}
